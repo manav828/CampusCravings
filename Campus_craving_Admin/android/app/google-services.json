@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "269924954024",
+    "project_id": "charueats-67164",
+    "storage_bucket": "charueats-67164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269924954024:android:f950454e21970090f0379d",
+        "android_client_info": {
+          "package_name": "com.example.campus_craving_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269924954024-8gi66im6ns36kbi1rn1lg0ouj5cb2311.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcY_A3cYRMHT_6PLp4TIKvxv3zs8qvwvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269924954024-8gi66im6ns36kbi1rn1lg0ouj5cb2311.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269924954024:android:7b64361b91d73db7f0379d",
+        "android_client_info": {
+          "package_name": "com.example.charueats_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269924954024-mk77fvj4f1d4mhpnkgshvn18n3qn5b98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charueats_delivery",
+            "certificate_hash": "8e780f08d0e32317d286eac173d0b8de17c25ff2"
+          }
+        },
+        {
+          "client_id": "269924954024-8gi66im6ns36kbi1rn1lg0ouj5cb2311.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcY_A3cYRMHT_6PLp4TIKvxv3zs8qvwvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269924954024-8gi66im6ns36kbi1rn1lg0ouj5cb2311.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269924954024:android:dbe67e5d42618bfaf0379d",
+        "android_client_info": {
+          "package_name": "com.example.charueats_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269924954024-njnamjq8ohh0162iocr6nvi7mnsgveip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charueats_shop",
+            "certificate_hash": "8e780f08d0e32317d286eac173d0b8de17c25ff2"
+          }
+        },
+        {
+          "client_id": "269924954024-8gi66im6ns36kbi1rn1lg0ouj5cb2311.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcY_A3cYRMHT_6PLp4TIKvxv3zs8qvwvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269924954024-8gi66im6ns36kbi1rn1lg0ouj5cb2311.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
